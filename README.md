@@ -1,6 +1,6 @@
 # Formação Node.js - Alura
 
-Projeto construido no curso:  
+Projeto/curso:  
 
 ## Rest com NodeJS: API com Express e MySQL 
 - Aprenda a criar API REST
